@@ -2,7 +2,6 @@
 
 ## :sassy_man:  About me
 - :school: I am an undergraduate `CS Student`.
-- :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `Freelancing`.
 
