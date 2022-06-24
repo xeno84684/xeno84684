@@ -10,20 +10,20 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-1. Python
-2. C
-3. C++
-4. Java
-5. Node.js
-6. Lua
+1. `Python`
+2. `C`
+3. `C++`
+4. `Java`
+5. `Node.js`
+6. `Lua`
 
 
 ### 👉 Software & Tools
-1. Github
-2. JSON
-3. Pygame
-4. LÖVE 2D
-5. ExpressJS
-6. Django
+1. `Github`
+2. `JSON`
+3. `Pygame`
+4. `LÖVE 2D`
+5. `ExpressJS`
+6. `Django`
 
 <br/>
